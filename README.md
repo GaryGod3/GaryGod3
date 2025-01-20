@@ -2,7 +2,7 @@
 - 👀 I’m interested in democratic reform.
 - 🌱 I’m currently learning Django and how to market myself.
 - 💞️ I’m looking to collaborate on Python and Django.
-- 📫 Reach me through me soicals on my profile.
+- 📫 Reach me through me socials on my profile.
 
 <!---
 GaryGod3/GaryGod3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
